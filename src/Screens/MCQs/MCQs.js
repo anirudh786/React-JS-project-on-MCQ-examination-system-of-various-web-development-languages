@@ -207,7 +207,7 @@ class MCQs extends Component {
                   <p className="badge badge-warning text-center">My IDs</p>
                   <br />
                   <a
-                    href="https://github.com/ManalLiaquat/"
+                    href="https://github.com/anirudh786"
                     className="badge badge-secondary text-center"
                     target="_blank"
                   >
@@ -216,7 +216,7 @@ class MCQs extends Component {
                     </h3>
                   </a>
                   <a
-                    href="https://www.linkedin.com/in/manal-liaquat-621684156/"
+                    href="https://www.linkedin.com/in/anirudh-jain-728390146/"
                     className="badge badge-info text-center"
                     target="_blank"
                   >
